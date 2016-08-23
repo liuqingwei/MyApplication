@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i("test", "down load from github, changes will commit to branch 3");
+        Log.i("test", "down load from github, changes will commit to branch 4");
     }
 }
